@@ -1,0 +1,6 @@
+order_id,customer,amount,notes
+1001,Anushka,120.50,paid
+1002,saho,,missing amount
+1003,aarya,89.99,paid
+1004,Sam,45.75,paid
+1005,,59.00,no name

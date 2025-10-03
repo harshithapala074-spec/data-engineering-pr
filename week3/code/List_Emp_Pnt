@@ -1,0 +1,4 @@
+employees = ["Harshitha", "vishal", "Sama", "Priya", "Jordan"]
+
+for name in employees:
+    print(name)
